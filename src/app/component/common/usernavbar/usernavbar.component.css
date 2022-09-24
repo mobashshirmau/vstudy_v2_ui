@@ -1,0 +1,9 @@
+.vstd-navbar-logo{
+    content: url("./../../../../assets/logo.png");
+    height: 40px;
+}
+.nav-link{
+    padding: 8px;
+    margin: 0px 12px;
+    font-size: 24px;
+}
