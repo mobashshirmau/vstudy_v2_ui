@@ -2,3 +2,7 @@
     background-color:  #AFE4DE;
     padding:8px;
 }
+
+body {
+    overflow-x:hidden;
+  }
